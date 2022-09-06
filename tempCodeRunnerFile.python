@@ -1,0 +1,15 @@
+#Crear un programa que permita ingresar una lista de numeros al usuario y muestre por pantalla el maximo entre ambos numeros.
+
+#Nota : Hacerlo con la función max(a,b) y luego con una comparación
+
+#INICIO
+prices = [0]
+min = max = prices[0]
+for price in prices:
+    if price < min:
+        min = price
+    elif price > max:
+        max = price 
+print("El mínimo es " + str(min)) 
+print("El máximo es " + str(max))
+#FIN
