@@ -1,0 +1,7 @@
+form{
+    width: 40%;
+}
+
+main section form .flex-item > input{
+    width: 100%;
+}

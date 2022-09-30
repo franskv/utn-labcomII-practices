@@ -1,0 +1,20 @@
+main section#form-city-list form{
+    flex-direction: row;  
+    gap: 3%;
+}
+
+main section#form-city-list form .flex-item select{
+    padding: 5px;    
+}
+
+main #section-weather-result{
+    margin-top: 20px;
+}
+main #section-weather-result .card{
+    text-align: center;
+}
+
+main #section-weather-result .card p{
+    padding-left: 5px;
+    padding-right: 5px;
+}
