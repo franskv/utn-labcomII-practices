@@ -6,3 +6,8 @@ main p {
     text-align: center;
     font-weight: bold;
 }
+
+form .alert{
+    background-color: #d11528;
+    border-color: #d11528;
+}
